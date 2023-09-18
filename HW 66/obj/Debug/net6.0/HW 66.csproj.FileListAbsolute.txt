@@ -1,0 +1,15 @@
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\bin\Debug\net6.0\HW 66.exe
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\bin\Debug\net6.0\HW 66.deps.json
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\bin\Debug\net6.0\HW 66.runtimeconfig.json
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\bin\Debug\net6.0\HW 66.dll
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\bin\Debug\net6.0\HW 66.pdb
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.csproj.AssemblyReference.cache
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.AssemblyInfoInputs.cache
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.AssemblyInfo.cs
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.csproj.CoreCompileInputs.cache
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.dll
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\refint\HW 66.dll
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.pdb
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\HW 66.genruntimeconfig.cache
+C:\Users\al-tr\Desktop\PL Seminar 9\HW 66\obj\Debug\net6.0\ref\HW 66.dll
